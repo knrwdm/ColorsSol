@@ -17,6 +17,7 @@
 		C3F228AA2363B73B00C5D2D3 /* ColorsSolUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F228A92363B73B00C5D2D3 /* ColorsSolUITests.swift */; };
 		C3F228B82363B7D400C5D2D3 /* ColorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F228B72363B7D400C5D2D3 /* ColorsViewController.swift */; };
 		C3F228BA2363BD2800C5D2D3 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F228B92363BD2800C5D2D3 /* Color.swift */; };
+		C3F228BE2363C13400C5D2D3 /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F228BD2363C13400C5D2D3 /* ColorDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		C3F228AB2363B73B00C5D2D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C3F228B72363B7D400C5D2D3 /* ColorsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsViewController.swift; sourceTree = "<group>"; };
 		C3F228B92363BD2800C5D2D3 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Color.swift; path = ../../Color.swift; sourceTree = "<group>"; };
+		C3F228BD2363C13400C5D2D3 /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				C3F2288F2363B73B00C5D2D3 /* Preview Content */,
 				C3F228B72363B7D400C5D2D3 /* ColorsViewController.swift */,
 				C3F228B92363BD2800C5D2D3 /* Color.swift */,
+				C3F228BD2363C13400C5D2D3 /* ColorDetailViewController.swift */,
 			);
 			path = ColorsSol;
 			sourceTree = "<group>";
@@ -276,6 +279,7 @@
 				C3F228882363B73A00C5D2D3 /* AppDelegate.swift in Sources */,
 				C3F2288A2363B73A00C5D2D3 /* SceneDelegate.swift in Sources */,
 				C3F228B82363B7D400C5D2D3 /* ColorsViewController.swift in Sources */,
+				C3F228BE2363C13400C5D2D3 /* ColorDetailViewController.swift in Sources */,
 				C3F228BA2363BD2800C5D2D3 /* Color.swift in Sources */,
 				C3F2288C2363B73A00C5D2D3 /* ContentView.swift in Sources */,
 			);
